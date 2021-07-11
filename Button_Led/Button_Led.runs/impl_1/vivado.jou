@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Jul  6 16:29:39 2021
+# Process ID: 24844
+# Current directory: C:/Work/FPGA_WS/Button_Led/Button_Led.runs/impl_1
+# Command line: vivado.exe -log btn_led.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source btn_led.tcl -notrace
+# Log file: C:/Work/FPGA_WS/Button_Led/Button_Led.runs/impl_1/btn_led.vdi
+# Journal file: C:/Work/FPGA_WS/Button_Led/Button_Led.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source btn_led.tcl -notrace
